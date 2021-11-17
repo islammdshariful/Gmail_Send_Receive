@@ -1,0 +1,2 @@
+Hi, This is an email from me sending via Gmail API.
+Note: This is a text file
